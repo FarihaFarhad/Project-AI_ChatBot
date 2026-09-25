@@ -16,4 +16,4 @@ Technologies
 
 HTML5 • CSS3 • JavaScript
 
-Built with ❤️ by Your Name.
+Built with ❤️ by Fariha.
